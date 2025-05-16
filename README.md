@@ -7,6 +7,7 @@ Return an enum from all functions?
 - Pick the data we want?
 - Authentication?
 - Caching?
+- @deprecated attribute
 
 ## Data types
 - string
