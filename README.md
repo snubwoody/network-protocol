@@ -17,3 +17,6 @@ Who is more in control the backend or the frontend?
 - struct
 - enum
 - option
+
+## Semver
+Follow semver and allow different x.y.z versions 
