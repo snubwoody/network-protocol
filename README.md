@@ -1,6 +1,8 @@
 # network-protocol
 
-Pick the data we want?
+- Pick the data we want?
+- Authentication?
+- Caching?
 
 ## Data types
 - string
