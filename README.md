@@ -8,6 +8,7 @@ Return an enum from all functions?
 - Authentication?
 - Caching?
 - @deprecated attribute
+- An error for each rpc
 
 ## Data types
 - string
