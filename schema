@@ -9,6 +9,12 @@ proc get_user{
   error: ErrorCode
 }
 
+response GetUserResponse{
+  headers: Header,
+  data: User
+  error: Error
+}
+
 struct Error{
   code: ErrorCode,
   message: string,
