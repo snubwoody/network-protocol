@@ -1,6 +1,6 @@
 version = "0.1.0"
 
-proc get_user(id: uuid) -> User
+proc get_user(uuid) -> User
 
 struct User{
   id: uuid,
