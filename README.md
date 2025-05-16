@@ -1,5 +1,7 @@
 # network-protocol
 
+Pick the data we want?
+
 ## Data types
 - string
 - date
