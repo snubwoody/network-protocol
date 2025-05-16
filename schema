@@ -2,6 +2,12 @@ version = "0.1.0"
 
 proc get_user(uuid) -> User
 
+proc get_user{
+  in: uuid,
+  returns: User,
+  error: ErrorCode
+}
+
 struct Error{
   code: ErrorCode,
   message: string,
