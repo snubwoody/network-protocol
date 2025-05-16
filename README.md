@@ -22,6 +22,9 @@ Return an enum from all functions?
 - option
 - array
 
+## Services
+Every file is a service, code can be split into different services. Cli to fetch services?
+
 ## Procedures
 A procedure takes in has one input type and one return type. The type can be a scalar, struct, enum or anything else.
 
