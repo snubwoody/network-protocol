@@ -21,5 +21,13 @@ Return an enum from all functions?
 - option
 - array
 
+## Procedures
+A procedure takes in has one input type and one return type. The type can be a scalar, struct, enum or anything else.
+
+```
+struct User{}
+proc get_user(uuid) -> User
+```
+
 ## Semver
 Follow semver and allow different x.y.z versions 
