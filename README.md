@@ -19,6 +19,7 @@ Return an enum from all functions?
 - struct
 - enum
 - option
+- array
 
 ## Semver
 Follow semver and allow different x.y.z versions 
