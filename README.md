@@ -9,3 +9,4 @@
 - boolean
 - struct
 - enum
+- option
