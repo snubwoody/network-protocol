@@ -6,3 +6,8 @@ struct User{
   id: uuid,
   email: string
 }
+
+enum Error{
+  Unauthorized,
+  UserNotFound
+}
