@@ -2,12 +2,18 @@ version = "0.1.0"
 
 proc get_user(uuid) -> User
 
+struct Error{
+  code: ErrorCode,
+  message: string,
+  details: string
+}
+
 struct User{
   id: uuid,
   email: string
 }
 
-enum Error{
+enum ErrorCode{
   Unauthorized,
   UserNotFound
 }
