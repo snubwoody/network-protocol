@@ -47,6 +47,17 @@ struct Song{
 }
 ```
 
+### Enums
+An enumeration of values.
+```
+enum UserRole{
+  Admin,
+  Owner,
+  Anonymous,
+  Basic
+}
+```
+
 ## Services
 Every file is a service, code can be split into different services. Cli to fetch services?
 
