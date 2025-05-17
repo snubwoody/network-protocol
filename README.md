@@ -10,6 +10,7 @@ Return an enum from all functions?
 - @deprecated attribute
 - An error for each rpc
 - Can compile to rest api?
+- Comments
 - Use http headers
 
 ## Data types
